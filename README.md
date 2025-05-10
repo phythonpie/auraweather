@@ -32,5 +32,5 @@ A sleek and modern weather application with a unique glassmorphism UI, built usi
 
 1. **Clone the repo**
    ```bash
-   git clone https://github.com/yourusername/aura-weather.git
+   git clone https://github.com/phythonpie/aura-weather.git
    cd aura-weather
