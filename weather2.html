@@ -49,7 +49,7 @@
       const city = document.getElementById('cityInput').value.trim();
       if (!city) return alert("Please enter a city name.");
 
-      const apiKey = "20e3056000cc4b7c9bb210035251005"; // WeatherAPI key
+      const apiKey = "20e3056000cc4b7c9bb210035251005";
       const url = `http://api.weatherapi.com/v1/current.json?key=${apiKey}&q=${encodeURIComponent(city)}&aqi=no`;
 
       try {
